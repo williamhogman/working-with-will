@@ -1,0 +1,89 @@
+* "Working with Will"
+  You're probably reading this because you're going to be working on
+  my team. I know what you're thinking: it is pretty odd for a person
+  to have a `README`-file... But then again I could probably be
+  replaced by a couple of bash-scripts. Hopefully this document will
+  help you understand how I work and how I can help you be a really
+  great engineer.
+
+  E-mail: will@klira.io
+  Slack: @william
+  Phone: +46 70 263 86 33
+
+* My Job
+  I have three main goals:
+  - Hire and retain the best engineers (you)
+  - Helping define your context, where you use code to solve business problems
+  - Helping you solve problems
+
+* My philosophy
+
+  I like Elon Musk's idea of thinking of people on a team as vectors,
+  consisting of a magnitude (how productive you are) and a direction
+  (the direction you're pulling in).
+
+  My main priorities are ensuring that your direction is aligned with
+  the rest of the team and that your you are as effective as possible.
+
+  Work is more of a marathon than as a sprint: So my goal is always to
+  ensure that your performance is sustainable.
+
+* Communication Skills
+
+
+
+* My availability
+  My priority is always to ensure that you are as effective as
+  possible. Feel free to disturb me anytime, even if have my
+  headphones on. If I have a meeting but you need to talk with me I
+  will reschedule the meeting.
+
+  If something is important to you, its important to me. If something
+  can't wait you can call me any time, no matter if its a weekend,
+  holiday or in the middle of the night.
+
+* Working hours
+
+  I like working strange hours (and sometimes weekends), so I might
+  write you something on Slack pretty much anytime. I only expect you to
+  respond during working hours.
+
+  Because of the nature of what we're doing I might sometimes need your
+  outside working hours due to some emergency. If there is an emergency
+  I will tell you so, if I don't you don't need to.
+
+* Communications
+  **Hierarchy of communication:** Video/Face-to-face -> Call -> Text -> Slack -> Email
+
+  Don't email me if you want a prompt response, I have notifications
+  turned off for email and try to check my email as seldom as
+  possible.
+
+  Use Slack if you want to discuss something with in a semi-async
+  manner.
+
+  If something is blocking you, or something that you feel is
+  important, please talk to me directly disturb me IRL. Even when I
+  have my headphones on.
+
+  In general most of our communication will be either Slack or
+  Face-to-face.
+
+* Feedback
+  I appreciate feedback both positive and negative about how I'm doing
+  and how the team is doing. I think feedback is best given through a
+  Slack message or 1-1 chat.
+
+  Giving me feedback is the best way for me to understand what can be
+  done better. I will never hold any feedback you give me, as long as
+  it is presented to me privately, against you.
+
+
+
+* 1on1 Meeting
+  Every two-weeks (unless we decide otherwise), we will have a 1on1
+  meeting. The 1on1 meeting is entirely for you. This meeting is for
+  you to give feedback for me and for the company.
+
+  What we talk about on a 1on1 meeting is 100% confidential, unless
+  you ask me to share something.
