@@ -17,7 +17,7 @@
 
 * My philosophy
 
-  I like Elon Musk's idea of thinking of people on a team as vectors,
+  I like the idea of thinking of people on a team as vectors,
   consisting of a magnitude (how productive you are) and a direction
   (the direction you're pulling in).
 
@@ -83,7 +83,7 @@
 
 
 * 1on1 Meeting
-  Every two-weeks (unless we decide otherwise), we will have a 1on1
+  Every two weeks (unless we decide otherwise), we will have a 1on1
   meeting. The 1on1 meeting is entirely for you. This meeting is for
   you to give feedback for me and for the company.
 
